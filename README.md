@@ -1,2 +1,2 @@
 # supreme-chainsaw
-c program to add, delete and sort the record of students.
+c program to add, delete and sort the record of employee.
